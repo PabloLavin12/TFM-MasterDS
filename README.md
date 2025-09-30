@@ -1,0 +1,2 @@
+# TFM---Master-en-Ciencia-de-Datos-UC-Estudio-Climatico-y-Agroclimatico-de-la-Peninsula-Iberica
+Este repositorio recopila las prácticas y el Trabajo Fin de Máster (TFM) del Máster en Ciencia de Datos de la Universidad de Cantabria, desarrollados en el marco de la beca JAE Intro ICU 2025. El trabajo se centra en el análisis climático de la Península Ibérica, con especial atención a la aplicación de índices climáticos al ámbito agroclimático.
