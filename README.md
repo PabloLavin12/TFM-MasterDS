@@ -30,6 +30,8 @@ Los datos utilizados proceden de fuentes abiertas de reanálisis y observación 
 
 Este proyecto ha sido desarrollado por *Pablo Lavín Pellón*, dentro del Máster en Ciencia de Datos (Universidad de Cantabria), bajo la Beca JAE Intro ICU 2025.
 
+*Este repositorio está en desarrollo.*
+
 ## Licencia
 
 Este repositorio se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
