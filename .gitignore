@@ -4,7 +4,6 @@ scripts/
 *.tmp
 *.log
 *.h5
-*.pkl
 .ipynb_checkpoints/
 .DS_Store
 
